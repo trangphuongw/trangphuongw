@@ -1,10 +1,10 @@
 # Hi there
 
-I'm **Trang Le**, currently transitioning from a **Digital Performance** background into a **Data Analyst** role.
+I'm Trang Le, currently transitioning from a Digital Performance background into a Data Analyst/ Business Intelligence role.
 
 ## 🚀 About me
 
-- 2+ years of experience in Performance Marketing and E-commerce
+- 2+ years of experience in **Performance Marketing** and **E-commerce**
 - Hands-on experience in planning and campaign management end-to-end
 - Bring a strong commercial mindset gained from marketing and operations
 - Monitor KPIs: Revenue/GMV, Cost, ROAS/Profit margin, CTR, CPC, CR,...
