@@ -24,8 +24,8 @@ I'm **Trang Le**, currently transitioning from a **Digital Performance** backgro
 
 ## 📫 Get in touch
 
-Email: trangphuong.hoangle43@gmail.com
-Phone: 0964003028
+Email: trangphuong.hoangle43@gmail.com  
+Phone: 0964003028  
 LinkedIn: www.linkedin.com/in/trangle43
 
 ---
