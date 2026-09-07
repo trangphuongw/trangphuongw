@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Trang Le. Welcome to my GitHub, where I showcase my data analytics skills through my personal projects
+I'm Trang Le. Welcome to my GitHub, where I showcase my data analytics skills through my personal projects. You can see the detail project belowed in the pinned section.
 
 ## 🚀 About me
 
