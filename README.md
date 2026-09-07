@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Trang Le, currently transitioning from a Digital Performance background into a Data Analyst/ Business Intelligence role.
+I'm Trang Le. Welcome to my GitHub, where I showcase my data analytics skills through my personal projects
 
 ## 🚀 About me
 
@@ -16,11 +16,6 @@ I'm Trang Le, currently transitioning from a Digital Performance background into
 |---|---|
 | Visualisation | Power BI, Looker Studio |
 | Languages | Python, SQL |
-
-## 📊 Featured projects
-
-- **Ecommerce Performance Dashboard** — Excel, Power BI, DAX
-- **Supply Chain Dashboard** — Power BI, DAX
 
 ## 📫 Get in touch
 
